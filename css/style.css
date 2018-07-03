@@ -56,8 +56,9 @@ p {
 }
 
 a {
-  color: blue;
+  color: black;
   text-decoration: none;
+  font-size: 1em;
 }
 
 a:hover {
